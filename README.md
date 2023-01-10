@@ -14,7 +14,7 @@ npm create vite@latest
 
 ```shell
 cd project
-pm install
+npm install
 ```
 
 3. Install vite-plugin-vue2
